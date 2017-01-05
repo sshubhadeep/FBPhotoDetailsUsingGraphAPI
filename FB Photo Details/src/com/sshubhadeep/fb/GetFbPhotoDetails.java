@@ -8,7 +8,7 @@ import com.restfb.types.Photo;
 
 public class GetFbPhotoDetails {
 	
-	public static final String MY_ACCESS_TOKEN = "EAACEdEose0cBAA80qmPawnTG9ZAAy8rDs60ZBnHZCxrS2ZA7xOu5CJTrbAwjEqurcPZBrElCZCV3ptHOQRE3XyiNXZBjvuvsVeiASHfngnUZA4ZAPw6Ke0CeH42ZCCqQEwIkMHkgFTJ3pYz75MIpTRQO1Uazzje9cp5fvZBD23F1Df7PQZDZD";
+	public static final String MY_ACCESS_TOKEN = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";//use user's access token here
 	
 	public static void main(String[] args) {
 	       FacebookClient facebookClient = new DefaultFacebookClient(MY_ACCESS_TOKEN);
